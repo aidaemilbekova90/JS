@@ -1,0 +1,17 @@
+
+
+
+
+ {
+     "users" :[
+        {  "name": "John", "age":25},
+        { "name": "Vasya", "age":27},
+       { "name": "Dima", "age":18} ,
+       {"name": "Mery", "age":45}
+     ]
+        
+       
+ }
+        
+     
+    
