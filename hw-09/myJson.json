@@ -1,0 +1,11 @@
+{
+  "movies": [
+    { "title": "John", "director": "Aytmatov", "duration": 1.45 },
+    { "title": "Earth", "director": "Akin", "duration": 2.35 },
+    { "title": "moon", "director": "tolgonay", "duration": 1.2 },
+    { "title": "sweet", "director": "Sweet", "duration": 3 },
+    { "title": "shake", "director": "Shake", "duration": 1.1 },
+    { "title": "Gocorona", "director": "Freelancer", "duration": 1.56 },
+    { "title": "kindle", "director": "Amazon", "duration": 2 }
+  ]
+}
